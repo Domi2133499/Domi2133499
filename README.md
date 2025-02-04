@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Domi2133499
+- 👀 I’m interested in programming with JavaScript, Java, Python, HTML and Lua
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me: https://discord.gg/Xq3tRvD9KE
+- 😄 Pronouns: He/Him
